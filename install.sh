@@ -5,7 +5,7 @@ rm -rf /usr/bin/suf
 cat <<EOT >> /usr/bin/suf
 if [ \$# -eq 1 ]; then
         if [ \$(getent passwd \$1) ]; then
-                su "\$1" -c "script /dev/null"
+                su "\$1" -c "cd /home/"\$1" && script /dev/null"
         else
                 echo '[suf] The user "'"\$1"'" does not exist!';
         fi
@@ -21,3 +21,4 @@ chmod 775 /usr/bin/suf
 echo " "
 echo "[suf] Successfully installed! Now please use 'suf' to switch user!"
 echo " "
+
