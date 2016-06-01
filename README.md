@@ -1,15 +1,13 @@
 # suf
 
 ### What happens if you use "su" with "screen" (error)
-![terminal](http://i.snz.at/xhH6x8)
+![terminal](http://i.imgur.com/UJS2WM8.png)
 
 ### What happens if you use "suf" with "screen" (working yay)
-![terminal2](http://i.snz.at/RA5Z89)
+![terminal2](http://i.imgur.com/UPULSvJ.png)
 
 ### Install
-`wget https://git.io/v2a2Q -O install.sh`
-
-`chmod 775 install.sh`
+`wget https://raw.githubusercontent.com/NAAVOO/suf/master/install.sh -O install.sh`
 
 `sudo sh install.sh`
 
