@@ -12,4 +12,4 @@
 `sudo sh install.sh`
 
 ### Bugs and suggestions
-https://github.com/NAAVOO/suf/issues/new
+[*Click here*](https://github.com/NAAVOO/suf/issues/new)
