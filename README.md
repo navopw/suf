@@ -12,11 +12,11 @@
 `sudo sh install.sh`
 
 ### Bugs and suggestions
-[*Click here*](https://github.com/NAAVOO/suf/issues/new)
+[*Click here*](https://github.com/navopw/suf/issues/new)
 
 ### License (MIT)
 
-Copyright © 2016 Navo (Kncw.eu)
+Copyright © 2016 navo.pw
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
