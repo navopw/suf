@@ -7,7 +7,7 @@
 ![terminal2](http://i.imgur.com/UPULSvJ.png)
 
 ### Install
-`wget https://raw.githubusercontent.com/NAAVOO/suf/master/install.sh -O install.sh`
+`wget https://raw.githubusercontent.com/navopw/suf/master/install.sh -O install.sh`
 
 `sudo sh install.sh`
 
