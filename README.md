@@ -3,7 +3,7 @@
 ### What happens if you use "su" with "screen" (error)
 ![terminal](http://i.imgur.com/UJS2WM8.png)
 
-### What happens if you use "suf" with "screen" (working yay)
+### What happens if you use "suf" with "screen" (working)
 ![terminal2](http://i.imgur.com/UPULSvJ.png)
 
 ### Install
@@ -16,7 +16,7 @@
 
 ### License (MIT)
 
-Copyright © 2016 navo.pw
+Copyright © 2016 [navopw](https://github.com/navopw)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
